@@ -6,4 +6,4 @@ I completed the certificate on 11th April 2020.
 
 ## Certificate
 
-![Certificate](https://github.com/vedantbahel/IBM-Capstone-Project-/data/Screenshot (150).png) 
+![Certificate](https://github.com/vedantbahel/IBM-Capstone-Project-/data/Screenshot%(150).png) 
